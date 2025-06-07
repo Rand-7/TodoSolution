@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Rand Abd ALDayem\\Desktop\\MVC  N-tier Examples_5d91ce78bccbab0689c73c66ebc1ddd3\\ToDoSolution_SV\\Web\\Web.csproj",
+      "projectUniqueName": "C:\\Users\\Rand Abd ALDayem\\Desktop\\MVC  N-tier Examples_5d91ce78bccbab0689c73c66ebc1ddd3\\ToDoSolution_SV\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "c:\\Users\\Rand Abd ALDayem\\Desktop\\MVC  N-tier Examples_5d91ce78bccbab0689c73c66ebc1ddd3\\ToDoSolution_SV\\Web\\Web.csproj",
+      "projectPath": "C:\\Users\\Rand Abd ALDayem\\Desktop\\MVC  N-tier Examples_5d91ce78bccbab0689c73c66ebc1ddd3\\ToDoSolution_SV\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\Rand Abd ALDayem\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Rand Abd ALDayem\\Desktop\\MVC  N-tier Examples_5d91ce78bccbab0689c73c66ebc1ddd3\\ToDoSolution_SV\\Web\\obj\\",
+      "outputPath": "C:\\Users\\Rand Abd ALDayem\\Desktop\\MVC  N-tier Examples_5d91ce78bccbab0689c73c66ebc1ddd3\\ToDoSolution_SV\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rand Abd ALDayem\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -69,8 +69,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "c:\\Users\\Rand Abd ALDayem\\Desktop\\MVC  N-tier Examples_5d91ce78bccbab0689c73c66ebc1ddd3\\ToDoSolution_SV\\Business\\Business.csproj": {
-              "projectPath": "c:\\Users\\Rand Abd ALDayem\\Desktop\\MVC  N-tier Examples_5d91ce78bccbab0689c73c66ebc1ddd3\\ToDoSolution_SV\\Business\\Business.csproj"
+            "C:\\Users\\Rand Abd ALDayem\\Desktop\\MVC  N-tier Examples_5d91ce78bccbab0689c73c66ebc1ddd3\\ToDoSolution_SV\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\Rand Abd ALDayem\\Desktop\\MVC  N-tier Examples_5d91ce78bccbab0689c73c66ebc1ddd3\\ToDoSolution_SV\\Business\\Business.csproj"
             }
           }
         }
